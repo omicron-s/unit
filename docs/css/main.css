@@ -3,7 +3,7 @@ html {
 }
 body {
   color: #2e2e2e;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .none {
   display: none;
@@ -132,11 +132,6 @@ body {
   position: absolute;
   top: 0;
   width: 100%;
-}
-@media (min-width: 768px) {
-  .header__navbar {
-    width: auto;
-  }
 }
 .header__nav-btn {
   position: absolute;
