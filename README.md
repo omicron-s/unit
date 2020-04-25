@@ -12,7 +12,7 @@
 ### Тестировать локально
 
 ```
-git clone https://omicron-s.github.io/unit.git
+git clone https://github.com/omicron-s/unit.git
 
 ```
 
